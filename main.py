@@ -1,12 +1,3 @@
-"""
-Controls
---------
-  SPACE   – generate a new maze (animated)
-  ENTER   – solve the current maze (animated)
-  T       – toggle the spanning-tree overlay
-  Q / ESC – quit
-"""
-
 import pygame
 import sys
 import random
